@@ -6,3 +6,9 @@ my first
 file github
 test test test
 line 8
+
+<?php  
+
+echo "hello github";
+
+?>
